@@ -1,2 +1,3 @@
 # PalWorld-Rest-Py
-REST API calls for palworld using python
+Python GUI application that allows administrators to make REST API calls to their Palworld dedicated server.
+
